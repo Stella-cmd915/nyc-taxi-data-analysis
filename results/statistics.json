@@ -1,0 +1,286 @@
+{
+  "q1_mean_duration_per_hour": {
+    "0": {
+      "mean_seconds": 782.18,
+      "mean_minutes": 13.04,
+      "trips": 52918
+    },
+    "1": {
+      "mean_seconds": 741.39,
+      "mean_minutes": 12.36,
+      "trips": 38323
+    },
+    "2": {
+      "mean_seconds": 702.06,
+      "mean_minutes": 11.7,
+      "trips": 27771
+    },
+    "3": {
+      "mean_seconds": 704.7,
+      "mean_minutes": 11.74,
+      "trips": 20714
+    },
+    "4": {
+      "mean_seconds": 738.77,
+      "mean_minutes": 12.31,
+      "trips": 15627
+    },
+    "5": {
+      "mean_seconds": 718.03,
+      "mean_minutes": 11.97,
+      "trips": 14840
+    },
+    "6": {
+      "mean_seconds": 674.28,
+      "mean_minutes": 11.24,
+      "trips": 33031
+    },
+    "7": {
+      "mean_seconds": 760.16,
+      "mean_minutes": 12.67,
+      "trips": 55338
+    },
+    "8": {
+      "mean_seconds": 835.99,
+      "mean_minutes": 13.93,
+      "trips": 66785
+    },
+    "9": {
+      "mean_seconds": 845.56,
+      "mean_minutes": 14.09,
+      "trips": 67386
+    },
+    "10": {
+      "mean_seconds": 849.72,
+      "mean_minutes": 14.16,
+      "trips": 65170
+    },
+    "11": {
+      "mean_seconds": 878.0,
+      "mean_minutes": 14.63,
+      "trips": 68142
+    },
+    "12": {
+      "mean_seconds": 880.08,
+      "mean_minutes": 14.67,
+      "trips": 71513
+    },
+    "13": {
+      "mean_seconds": 899.31,
+      "mean_minutes": 14.99,
+      "trips": 71116
+    },
+    "14": {
+      "mean_seconds": 950.67,
+      "mean_minutes": 15.84,
+      "trips": 73851
+    },
+    "15": {
+      "mean_seconds": 968.13,
+      "mean_minutes": 16.14,
+      "trips": 71370
+    },
+    "16": {
+      "mean_seconds": 968.06,
+      "mean_minutes": 16.13,
+      "trips": 63901
+    },
+    "17": {
+      "mean_seconds": 933.89,
+      "mean_minutes": 15.56,
+      "trips": 76077
+    },
+    "18": {
+      "mean_seconds": 862.28,
+      "mean_minutes": 14.37,
+      "trips": 90162
+    },
+    "19": {
+      "mean_seconds": 791.21,
+      "mean_minutes": 13.19,
+      "trips": 89952
+    },
+    "20": {
+      "mean_seconds": 771.46,
+      "mean_minutes": 12.86,
+      "trips": 83696
+    },
+    "21": {
+      "mean_seconds": 778.29,
+      "mean_minutes": 12.97,
+      "trips": 83765
+    },
+    "22": {
+      "mean_seconds": 806.0,
+      "mean_minutes": 13.43,
+      "trips": 80057
+    },
+    "23": {
+      "mean_seconds": 813.64,
+      "mean_minutes": 13.56,
+      "trips": 69412
+    }
+  },
+  "q2_mean_duration_per_weekday": {
+    "Monday": {
+      "mean_seconds": 811.81,
+      "mean_minutes": 13.53,
+      "trips": 186430
+    },
+    "Tuesday": {
+      "mean_seconds": 856.98,
+      "mean_minutes": 14.28,
+      "trips": 201707
+    },
+    "Wednesday": {
+      "mean_seconds": 881.4,
+      "mean_minutes": 14.69,
+      "trips": 209157
+    },
+    "Thursday": {
+      "mean_seconds": 899.41,
+      "mean_minutes": 14.99,
+      "trips": 217400
+    },
+    "Friday": {
+      "mean_seconds": 868.81,
+      "mean_minutes": 14.48,
+      "trips": 222366
+    },
+    "Saturday": {
+      "mean_seconds": 780.13,
+      "mean_minutes": 13.0,
+      "trips": 219694
+    },
+    "Sunday": {
+      "mean_seconds": 765.16,
+      "mean_minutes": 12.75,
+      "trips": 194163
+    }
+  },
+  "q3_top_pickup_region": {
+    "lat": 40.75,
+    "lon": -73.99,
+    "trips": 34838,
+    "note": "Midtown Manhattan area (TLC zone: Times Sq / Penn Station)"
+  },
+  "q3_top10_pickup_regions": [
+    {
+      "lat_bin": 40.75,
+      "lon_bin": -73.99,
+      "count": 34838
+    },
+    {
+      "lat_bin": 40.755,
+      "lon_bin": -73.99,
+      "count": 22359
+    },
+    {
+      "lat_bin": 40.76,
+      "lon_bin": -73.97,
+      "count": 22327
+    },
+    {
+      "lat_bin": 40.76,
+      "lon_bin": -73.985,
+      "count": 22287
+    },
+    {
+      "lat_bin": 40.75,
+      "lon_bin": -73.975,
+      "count": 22147
+    },
+    {
+      "lat_bin": 40.765,
+      "lon_bin": -73.98,
+      "count": 21806
+    },
+    {
+      "lat_bin": 40.755,
+      "lon_bin": -73.975,
+      "count": 21755
+    },
+    {
+      "lat_bin": 40.75,
+      "lon_bin": -73.995,
+      "count": 21645
+    },
+    {
+      "lat_bin": 40.76,
+      "lon_bin": -73.975,
+      "count": 20091
+    },
+    {
+      "lat_bin": 40.745,
+      "lon_bin": -73.985,
+      "count": 19311
+    }
+  ],
+  "q4_longest_trips": [
+    {
+      "pickup_datetime": "2016-01-17 17:54:07",
+      "trip_duration": "14243",
+      "minutes": "237.38"
+    },
+    {
+      "pickup_datetime": "2016-03-31 12:36:47",
+      "trip_duration": "14171",
+      "minutes": "236.18"
+    },
+    {
+      "pickup_datetime": "2016-04-17 11:43:23",
+      "trip_duration": "14160",
+      "minutes": "236.0"
+    },
+    {
+      "pickup_datetime": "2016-06-18 20:06:00",
+      "trip_duration": "14040",
+      "minutes": "234.0"
+    },
+    {
+      "pickup_datetime": "2016-02-01 18:18:08",
+      "trip_duration": "13850",
+      "minutes": "230.83"
+    }
+  ],
+  "q4_shortest_trips": [
+    {
+      "pickup_datetime": "2016-04-27 10:54:10",
+      "trip_duration": "30",
+      "minutes": "0.5"
+    },
+    {
+      "pickup_datetime": "2016-01-14 14:50:07",
+      "trip_duration": "30",
+      "minutes": "0.5"
+    },
+    {
+      "pickup_datetime": "2016-05-13 13:17:38",
+      "trip_duration": "30",
+      "minutes": "0.5"
+    },
+    {
+      "pickup_datetime": "2016-06-06 08:52:08",
+      "trip_duration": "30",
+      "minutes": "0.5"
+    },
+    {
+      "pickup_datetime": "2016-03-05 12:54:28",
+      "trip_duration": "30",
+      "minutes": "0.5"
+    }
+  ],
+  "q5_peak_hour": {
+    "hour": 18,
+    "trips": 90162,
+    "label": "18:00 - 19:00"
+  },
+  "q6_correlation": {
+    "pearson_r": 0.014189079978000604,
+    "pearson_p": 1.6976066807900538e-65,
+    "spearman_r": 0.02435447324957659,
+    "spearman_p": 3.1804678552402034e-189,
+    "n": 1450917,
+    "interpretation": "near-zero correlation -> trip duration is essentially independent of passenger count"
+  }
+}
